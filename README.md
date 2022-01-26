@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi evryone my name is Andres👋
+I am a senior full stack developer on php and js, I have extensive experience in development with different languages (Cobol, php, javascript). I also have the necessary knowledge to create, modify, implement and administer relational databases in MySQL, PosgresSQL.
+I am currently taking a course to expand my knowledge in front end development, using SASS, JQuery, React among other tools.
 
+🔭 I’m currently working on Tunel Subfluvial "Raul Uranga - Carlos Sylvestre Begnis" as Chief of the Development Division of the IT Department.
 <!--
 **jandrespadilla/jandrespadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
