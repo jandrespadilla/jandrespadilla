@@ -7,7 +7,7 @@ To expand my knowledge I finished the front end career on CoderHouse that has 98
 
 My Skills:
   PHP 15 years
-    -Wordpress 3 years
+  -Wordpress 3 years
       -Woocommerce 3 years
       -Elementor 3 years
     -YII2 5 years
