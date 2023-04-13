@@ -1,4 +1,4 @@
-### Hi evryone my name is Andres👋
+### Hi everyone my name is Andres👋
 I am a senior full stack developer on php and js, I have extensive experience in development with different languages (Cobol, php, javascript). I also have the necessary knowledge to create, modify, implement and administer relational databases in MySQL, PosgresSQL.
 To expand my knowledge I finished the front end career on CoderHouse that has 98 hourly loads,  using HTML5, CSS, BOOTSTRAP, SASS, JQuery, React, Firebase among other tools.
 
